@@ -136,13 +136,13 @@ const About = () => {
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
-      <h2 className="numbered-heading">About Me</h2>
+      <h2 className="numbered-heading">Som Me</h2>
 
       <div className="inner">
         <StyledText>
           <div>
             <p>
-              Hello! My name is Adnan and I’m fascinated by the intersection of people, policy, and
+              Hello! My name is Adnan! and I’m fascinated by the intersection of people, policy, and
               data. I’m drawn to where economics meets human behavior — from market psychology and
               incentives to the way narratives shape decisions.
             </p>
