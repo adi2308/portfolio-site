@@ -1,10 +1,10 @@
 ---
 date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+title: 'Senior Research Associate'
+company: 'PitchBook Data'
+location: 'Mumbai, India'
+range: 'March 2020 - September 2022'
+url: 'https://www.pitchbook.com/'
 ---
 
 - Developed and styled interactive web applications for Apple Music using Ember and SCSS

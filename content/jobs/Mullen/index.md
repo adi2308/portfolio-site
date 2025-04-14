@@ -1,10 +1,10 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Staff Accountant'
+company: 'VirgoTech Marine Engineering'
+location: 'Mumbai, India'
+range: 'July 2016 - April 2018'
+url: 'https://www.virgotechoffshore.com/'
 ---
 
 - Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery

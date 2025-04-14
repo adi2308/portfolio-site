@@ -60,21 +60,26 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Adnan Shaikh.</h2>;
+  const three = <h3 className="big-heading">I explore the human side of economics.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I study humans and patterns — through the lens of economics. From macro trends to behavioral
+        insights, I explore how data and research can drive meaningful change. I’m a master's
+        student at{' '}
+        <a href="https://www.uni-halle.de/" target="_blank" rel="noreferrer">
+          Martin Luther University Halle-Wittenberg
+        </a>{' '}
+        and a research assistant at the{' '}
+        <a href="https://www.iwh-halle.de/" target="_blank" rel="noreferrer">
+          Halle Institute for Economic Research (IWH)
         </a>
         .
       </p>
     </>
   );
+
   const five = (
     <a
       className="email-link"
